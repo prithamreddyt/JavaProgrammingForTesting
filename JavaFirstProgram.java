@@ -6,8 +6,6 @@ public class JavaFirstProgram {
 		
 		//Data Types in java:
 		//strict types
-		
-		
 		//1.Primitive Data Types
 		//2.Non Primitive Data Types
 	
